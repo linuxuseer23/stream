@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Channel 1",Channel 1
-https://smarter.majedcss.site/live/ch1/67060b6938794f7a9601490665c74df5.1791311630.1791322430.0.070e881bd3e47ca01a2eecb6eebd24dbfdb3b724d9e1901ae13461cdccdca759/master.css|Origin=https://player.majed-koora.live
+#EXTVLCOPT:http-user-agent=https://live.xn----zmcaegc7cl3msazv.com/2026/08/blog-post_526.html?mk=nEg8rE24WwOK_c-4w31uzbVeZAI6VtJIxDwxHv-1ubE&src=majed
+#EXTVLCOPT:http-referrer=https://player.majed-koora.live/?player=hls&channel=ch2
+#EXTHTTP:{"User-Agent":"https://live.xn----zmcaegc7cl3msazv.com/2026/08/blog-post_526.html?mk=nEg8rE24WwOK_c-4w31uzbVeZAI6VtJIxDwxHv-1ubE&src=majed","Referer":"https://player.majed-koora.live/?player=hls&channel=ch2","Origin":"https://player.majed-koora.live"}
+https://smarter.majedcss.site/live/ch1/67060b6938794f7a9601490665c74df5.1791311630.1791322430.0.070e881bd3e47ca01a2eecb6eebd24dbfdb3b724d9e1901ae13461cdccdca759/master.css
