@@ -2,5 +2,6 @@
 #EXTINF:-1 tvg-name="Channel 1",Channel 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.xn----zmcaegc7cl3msazv.com/2026/08/blog-post_526.html?mk=nEg8rE24WwOK_c-4w31uzbVeZAI6VtJIxDwxHv-1ubE&src=majed
+#EXTVLCOPT:http-header=Origin: https://player.majed-koora.live
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://live.xn----zmcaegc7cl3msazv.com/2026/08/blog-post_526.html?mk=nEg8rE24WwOK_c-4w31uzbVeZAI6VtJIxDwxHv-1ubE&src=majed","Origin":"https://player.majed-koora.live"}
 https://smarter.majedcss.site/live/ch1/67060b6938794f7a9601490665c74df5.1791311630.1791322430.0.070e881bd3e47ca01a2eecb6eebd24dbfdb3b724d9e1901ae13461cdccdca759/master.css
