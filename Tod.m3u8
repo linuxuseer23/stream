@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Channel 1",Channel 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.majed-koora.live/?player=hls&channel=ch2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://player.majed-koora.live/?player=hls&channel=ch2","Origin":"https://player.majed-koora.live"}
+https://smarter.majedcss.site/live/ch1/67060b6938794f7a9601490665c74df5.1791311630.1791322430.0.070e881bd3e47ca01a2eecb6eebd24dbfdb3b724d9e1901ae13461cdccdca759/master.css
