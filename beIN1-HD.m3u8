@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1319" tvg-logo="" group-title="Live",1319
+#EXTVLCOPT:http-user-agent=OSCARTV2021
+http://assets.pushyourcss.world:8080/assets/res2/java2/1316.css?x=/hls
